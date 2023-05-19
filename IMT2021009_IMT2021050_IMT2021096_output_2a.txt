@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------------------------------
+60.011775467076006% is the mis-prediction rate for always predict TAKEN branch predictor.
+39.988224532923994% is the mis-prediction rate for always predict NOT TAKEN branch predictor.
+-------------------------------------------------------------------------------------------------------
